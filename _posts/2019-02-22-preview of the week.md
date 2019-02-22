@@ -1,6 +1,6 @@
 ---
 Layout:
-Title:"reveiw of the week"
+Title: "reveiw of the week"
 Date: 2019-02-22
 ---
 ## Preview of the week
