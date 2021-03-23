@@ -1,0 +1,25 @@
+*{
+  margin: 0rem;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+li{
+  list-style-type:none;
+  padding: 2rem 1rem 0.3rem 1rem;
+  font-weight: bolder;
+}
+
+nav{
+  display: flex;
+  justify-content: flex-end;
+  background-image: url("./asserts/pexels-abdullah-ghatasheh-1631677.jpg");
+}
+
+#main{
+  background-image: url("./asserts/pexels-abdullah-ghatasheh-1631677.jpg");
+  height: 100vh;
+  width: 100%;
+}
